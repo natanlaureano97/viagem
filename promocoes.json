@@ -1,0 +1,161 @@
+{
+ "atualizado_em": "2026-10-25",
+ "promocoes": [
+  {
+   "id": "iva-hospedagem-21",
+   "titulo": "Hospedagem sem IVA (21%) para estrangeiros",
+   "detalhe": "Turistas não residentes não pagam os 21% de IVA na diária (e no café incluso) em hotéis inscritos na ARCA. Apresente o passaporte/RG estrangeiro com o comprovante de entrada da Migración e pague com cartão emitido no exterior ou transferência internacional.",
+   "categoria": "cambio",
+   "onde": "Hotéis em toda a Argentina (Buenos Aires e Entre Ríos)",
+   "codigo": "",
+   "validade_ate": "",
+   "dias": "todos os dias",
+   "fonte": "https://www.argentina.travel/prensa/novedades/argentina-ofrece-importantes-incentivos-economicos-para-turistas-extranjeros",
+   "conferido_em": "2026-10-25"
+  },
+  {
+   "id": "tax-free-compras",
+   "titulo": "Tax Free: devolução de IVA nas compras",
+   "detalhe": "Em lojas com o selo Tax Free, peça o formulário de devolução ao comprar produtos nacionais. Na saída do país, a aduana carimba ou valida o formulário (desde 2026 por validação digital); leve as notas, os produtos e o passaporte. Confirme antes se a aduana de Santo Tomé/São Borja faz esse processo.",
+   "categoria": "compras",
+   "onde": "Lojas aderidas em Buenos Aires (shoppings e outlets)",
+   "codigo": "",
+   "validade_ate": "",
+   "dias": "todos os dias",
+   "fonte": "https://arca.gob.ar/viajeros/ayuda/devolucion-a-turistas.asp",
+   "conferido_em": "2026-10-25"
+  },
+  {
+   "id": "elegi-argentina-caba",
+   "titulo": "Elegí Argentina: descontos em Buenos Aires",
+   "detalhe": "A página oficial de turismo da cidade lista descontos em hotéis, hostels e serviços (ex.: 20% nas tarifas online de um hotel boutique em Palermo). Todos os benefícios valem só até 31/12/2026, ou seja, cobrem 27 a 31/12, mas não 01/01.",
+   "categoria": "passeios",
+   "onde": "Buenos Aires (vários bairros)",
+   "codigo": "",
+   "validade_ate": "2026-12-31",
+   "dias": "26-12 a 31-12",
+   "fonte": "https://turismo.buenosaires.gob.ar/es/elegi-argentina",
+   "conferido_em": "2026-10-25"
+  },
+  {
+   "id": "telepase-ruta14",
+   "titulo": "Pedágio pela metade com TelePASE",
+   "detalhe": "Desde jan/2026 as rotas 12 e 14 só cobram pedágio eletrônico. Com TelePASE, a categoria 1 custa ARS 2.340 contra ARS 4.681 no modo manual eletrônico (tabela de 05/09/2026). Veículos com placa estrangeira podem se cadastrar online desde 06/04/2026: vale fazer para os 2 carros antes de viajar.",
+   "categoria": "transporte",
+   "onde": "Ruta 14 – Entre Ríos (Yeruá, Colonia Elía)",
+   "codigo": "",
+   "validade_ate": "",
+   "dias": "todos os dias",
+   "fonte": "https://www.canal26.com/general/2026/04/07/telepase-habilitan-el-registro-para-un-grupo-especifico-de-usuarios-en-rutas-y-autopistas/",
+   "conferido_em": "2026-10-25"
+  },
+  {
+   "id": "el-palmar-2o-dia",
+   "titulo": "El Palmar: 2º dia com 50% de desconto",
+   "detalhe": "Quem volta ao Parque Nacional El Palmar em até 72 h do primeiro ingresso paga metade no 2º dia. A entrada geral (estrangeiros) é ARS 25.000 desde 01/06/2026, e cai para ARS 18.500 com o Pasaporte Entre Ríos.",
+   "categoria": "passeios",
+   "onde": "Parque Nacional El Palmar (Ubajay, Entre Ríos)",
+   "codigo": "",
+   "validade_ate": "",
+   "dias": "todos os dias",
+   "fonte": "https://www.argentina.gob.ar/parquesnacionales/elpalmar/tickets",
+   "conferido_em": "2026-10-25"
+  },
+  {
+   "id": "pasaporte-entre-rios",
+   "titulo": "Pasaporte Entre Ríos grátis",
+   "detalhe": "Credencial digital gratuita, também para turistas: você preenche um formulário em entrerios.tur.ar e recebe por e-mail. Dá descontos em mais de 300 estabelecimentos (hospedagem, gastronomia, passeios) em 31 municípios, além de desconto em El Palmar.",
+   "categoria": "passeios",
+   "onde": "Entre Ríos (Federación, Concordia, Colón, El Palmar)",
+   "codigo": "",
+   "validade_ate": "",
+   "dias": "todos os dias",
+   "fonte": "https://www.entrerios.tur.ar",
+   "conferido_em": "2026-10-25"
+  },
+  {
+   "id": "termas-federacion-criancas",
+   "titulo": "Termas de Federación: criança paga meia",
+   "detalhe": "No Parque Termal de Federación, crianças de 1 a 12 anos pagam ARS 11.000 contra ARS 22.000 da entrada geral (tarifa 2026); idosos aposentados pagam ARS 14.500. Os valores vêm da imprensa: confirmar com o município.",
+   "categoria": "passeios",
+   "onde": "Federación (Entre Ríos)",
+   "codigo": "",
+   "validade_ate": "",
+   "dias": "todos os dias",
+   "fonte": "https://www.canal26.com/turismo/2026/04/27/termas-argentinas-con-promos-para-jubilados-cuanto-cuesta-entrar-y-como-llegar-a-los-complejos-mas-elegidos/",
+   "conferido_em": "2026-10-25"
+  },
+  {
+   "id": "bellas-artes-gratis",
+   "titulo": "Museu Nacional de Belas Artes grátis",
+   "detalhe": "A entrada no Museo Nacional de Bellas Artes (Recoleta) é gratuita todos os dias, com contribuição voluntária. O Museo Casa Rosada também é gratuito. Fecha às segundas; confira o horário de 31/12 e 01/01.",
+   "categoria": "passeios",
+   "onde": "Recoleta, Buenos Aires",
+   "codigo": "",
+   "validade_ate": "",
+   "dias": "terça a domingo",
+   "fonte": "https://www.meteored.com.ar/noticias/actualidad/los-8-museos-gratuitos-de-buenos-aires.html",
+   "conferido_em": "2026-10-25"
+  },
+  {
+   "id": "malba-quarta-meia",
+   "titulo": "MALBA pela metade às quartas",
+   "detalhe": "Às quartas-feiras, a entrada geral do MALBA cai para metade (ARS 6.000 contra 12.000, preços de jul/2026). Menores de 5 anos não pagam. Em 30/12/2026 cai uma quarta.",
+   "categoria": "passeios",
+   "onde": "Palermo, Buenos Aires",
+   "codigo": "",
+   "validade_ate": "",
+   "dias": "quartas-feiras (30-12)",
+   "fonte": "https://www.meteored.com.ar/noticias/ocio/vacaciones-de-invierno-2026-6-museos-y-centros-culturales-en-buenos-aires-para-visitar-con-chicos.html",
+   "conferido_em": "2026-10-25"
+  },
+  {
+   "id": "ba-bus-20off",
+   "titulo": "Ônibus turístico de BA com 20% off",
+   "detalhe": "Ingresso de 24 h do Buenos Aires Bus (sobe e desce à vontade, percurso de ~3h30) de ARS 20.999 por ARS 16.799, comprando online no Atrápalo. Vale para datas de 15/07 até 31/12/2026, ou seja, não cobre 01/01.",
+   "categoria": "passeios",
+   "onde": "Buenos Aires (saída da parada 00 Recoleta)",
+   "codigo": "",
+   "validade_ate": "2026-12-31",
+   "dias": "27-12 a 31-12",
+   "fonte": "https://www.atrapalo.com.ar/actividades/buenos-aires-bus_e4909837/",
+   "conferido_em": "2026-10-25"
+  },
+  {
+   "id": "ypf-app-madrugada",
+   "titulo": "YPF: 6% off abastecendo de madrugada",
+   "detalhe": "Pagando pelo App YPF, quem abastece entre 00h e 06h tem 6% de desconto (9% nos postos com autoatendimento). A regra é de 2025 e foi citada como vigente em jun/2026. Não se confirmou se aceita cartão estrangeiro: teste no app antes de viajar.",
+   "categoria": "transporte",
+   "onde": "Postos YPF na Argentina",
+   "codigo": "",
+   "validade_ate": "",
+   "dias": "todos os dias, 00h–06h",
+   "fonte": "https://dolarhoy.com/economia/ypf-amplia-descuentos-nocturnos-6-con-su-app-y-hasta-9-en-autodespacho-20258201310",
+   "conferido_em": "2026-10-25"
+  },
+  {
+   "id": "distrito-arcos-outlet",
+   "titulo": "Outlets do Distrito Arcos",
+   "detalhe": "Reportagens de jul/2026 citam até 50% off no outlet Adidas (e 6x sem juros com Visa/Mastercard acima de ARS 150.000) e 70% na 2ª unidade no outlet Puma. São promoções que mudam: confira na loja.",
+   "categoria": "compras",
+   "onde": "Distrito Arcos, Palermo, Buenos Aires",
+   "codigo": "",
+   "validade_ate": "",
+   "dias": "todos os dias",
+   "fonte": "https://www.iprofesional.com/actualidad/459866-outlet-puma-ofrece-zapatillas-ropa-deportiva-descuentos-70-por-ciento",
+   "conferido_em": "2026-10-25"
+  },
+  {
+   "id": "nomad-saques",
+   "titulo": "Nomad: 2 saques grátis por mês",
+   "detalhe": "Segundo comparativo de 2026, o cartão de débito Nomad (Visa) tem 2 saques por mês sem tarifa (US$ 5 a partir do 3º, limite de US$ 500/dia), com IOF de 3,5%. Os 8 viajantes podem dividir os saques entre contas diferentes. Confirme as condições no app.",
+   "categoria": "cambio",
+   "onde": "Caixas eletrônicos na Argentina",
+   "codigo": "",
+   "validade_ate": "",
+   "dias": "todos os dias",
+   "fonte": "https://exiap.com.br/guias/melhores-cartoes-para-usar-na-argentina",
+   "conferido_em": "2026-10-25"
+  }
+ ]
+}
