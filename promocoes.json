@@ -4,7 +4,7 @@
   {
    "id": "iva-hospedagem-21",
    "titulo": "Hospedagem sem IVA (21%) para estrangeiros",
-   "detalhe": "Turistas não residentes não pagam os 21% de IVA na diária (e no café incluso) em hotéis inscritos na ARCA. Apresente o passaporte/RG estrangeiro com o comprovante de entrada da Migración e pague com cartão emitido no exterior ou transferência internacional.",
+   "detalhe": "Turista estrangeiro não paga os 21% de IVA na hospedagem (com café da manhã incluso, se fizer parte da tarifa). Mostrar passaporte ou RG, o comprovante de entrada da Migración e pagar com cartão do exterior ou transferência internacional. O desconto sai direto na fatura.",
    "categoria": "cambio",
    "onde": "Hotéis em toda a Argentina (Buenos Aires e Entre Ríos)",
    "codigo": "",
@@ -146,15 +146,51 @@
    "conferido_em": "2026-10-25"
   },
   {
-   "id": "nomad-saques",
-   "titulo": "Nomad: 2 saques grátis por mês",
-   "detalhe": "Segundo comparativo de 2026, o cartão de débito Nomad (Visa) tem 2 saques por mês sem tarifa (US$ 5 a partir do 3º, limite de US$ 500/dia), com IOF de 3,5%. Os 8 viajantes podem dividir os saques entre contas diferentes. Confirme as condições no app.",
+   "id": "pix-mercado-pago",
+   "titulo": "Pagar com Pix na Argentina",
+   "detalhe": "Lojas com a maquininha Point Smart do Mercado Pago aceitam Pix pelo app do seu banco brasileiro, pelo QR code. Costuma sair mais barato que o cartão internacional (menos IOF). Pergunte antes: '¿Aceptan Pix?'. Confira a cotação na tela do banco antes de confirmar.",
    "categoria": "cambio",
-   "onde": "Caixas eletrônicos na Argentina",
+   "onde": "Lojas com Mercado Pago (Point Smart)",
    "codigo": "",
    "validade_ate": "",
    "dias": "todos os dias",
-   "fonte": "https://exiap.com.br/guias/melhores-cartoes-para-usar-na-argentina",
+   "fonte": "https://www.cronista.com/finanzas-mercados/turistas-brasilenos-podran-usar-en-argentina-pix-con-qr-y-pagar-en-comercios-con-mercado-pago/",
+   "conferido_em": "2026-10-25"
+  },
+  {
+   "id": "mirador-obelisco",
+   "titulo": "Mirador do Obelisco: crianças pagam meia",
+   "detalhe": "Desde o fim de 2025 dá para subir no Obelisco. Estrangeiro paga o dobro do residente, mas crianças de 4 a 11 anos pagam metade e menores de 4 não pagam. Grupos de até 4 pessoas, turnos de cerca de 20 minutos, das 9h às 17h. Compre só no site oficial e com antecedência.",
+   "categoria": "passeios",
+   "onde": "Obelisco, Av. 9 de Julio",
+   "codigo": "",
+   "validade_ate": "",
+   "dias": "todos os dias, 9h às 17h",
+   "fonte": "https://www.iprofesional.com/recreo/438570-se-pueden-comprar-entradas-para-subir-obelisco-donde-sacarlas-cuanto-cuestan",
+   "conferido_em": "2026-10-25"
+  },
+  {
+   "id": "apps-transporte-ba",
+   "titulo": "Apps para andar em Buenos Aires",
+   "detalhe": "Cabify, Uber e DiDi funcionam e costumam sair mais baratos que o táxi (DiDi tende a ser o mais barato). Para metrô e ônibus: app oficial BA Cómo Llego e o cartão SUBE, que se compra e recarrega em quiosques e estações.",
+   "categoria": "dica",
+   "onde": "Buenos Aires",
+   "codigo": "",
+   "validade_ate": "",
+   "dias": "",
+   "fonte": "https://www.argentina.travel/pt/novidades/apps-uteis-para-se-locomover-na-argentina-uber-cabify-ou-didi",
+   "conferido_em": "2026-10-25"
+  },
+  {
+   "id": "natal-luzes-gratis",
+   "titulo": "Luzes de Natal no centro (grátis)",
+   "detalhe": "Em dezembro a cidade costuma enfeitar o Obelisco, a Av. Corrientes e a Av. de Mayo, com shows gratuitos ao ar livre. A programação de 2026 ainda não saiu: o app avisa quando for publicada.",
+   "categoria": "passeios",
+   "onde": "Centro (Obelisco, Corrientes, Av. de Mayo)",
+   "codigo": "",
+   "validade_ate": "2026-12-31",
+   "dias": "dezembro, à noite",
+   "fonte": "https://www.canal26.com/turismo/2025/12/11/agenda-navidena-de-buenos-aires-desde-shows-hasta-paseos-5-planes-gratuitos-para-disfrutar-en-familia/",
    "conferido_em": "2026-10-25"
   }
  ]
