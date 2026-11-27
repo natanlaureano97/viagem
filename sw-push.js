@@ -18,7 +18,9 @@ self.addEventListener('push', (evento) => {
 
 self.addEventListener('notificationclick', (evento) => {
   evento.notification.close();
-  const link = (evento.notification.data && evento.notification.data.link) || self.registration.scope;
+  const base = (evento.notification.data && evento.notification.data.link) || self.registration.scope;
+  // marca que veio de um aviso: o app abre direto na tela do aviso (sem a marca, abrir o app começa no Início)
+  const link = base.includes('#') ? base + '&aviso' : base;
   evento.waitUntil((async () => {
     const abertas = await self.clients.matchAll({ type: 'window', includeUncontrolled: true });
     for (const c of abertas) {
